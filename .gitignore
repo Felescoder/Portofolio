@@ -1,0 +1,36 @@
+# Environment and secrets
+.env
+.env.*
+!.env.example
+**/.env
+**/.env.*
+!**/.env.example
+
+# Dependencies
+**/node_modules/
+**/vendor/
+
+# Build and generated assets
+**/dist/
+**/dist-ssr/
+**/.vite/
+**/public/build/
+**/public/hot
+**/public/storage
+**/bootstrap/cache/*.php
+
+# Runtime logs and caches
+*.log
+**/storage/logs/*.log
+**/.phpunit.cache/
+**/.phpunit.result.cache
+**/coverage/
+
+# OS and editors
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Local machine files
+*.local
