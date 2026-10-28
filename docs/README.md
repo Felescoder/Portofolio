@@ -40,7 +40,7 @@
 ### 🎓 Pendidikan & Fondasi Akademik
 
 **SMK Negeri 71 Jakarta** | *Rekayasa Perangkat Lunak (RPL)*
-*(Tahun Masuk - Tahun Sekarang)*
+*(2025 - 2028)*
 
 *   **Bilingual Foundation:** Lulusan SMP Bilingual dengan penguasaan Bahasa Inggris teknis yang kuat. Mampu menyerap dokumentasi resmi, riset mandiri, dan literatur teknologi global tanpa hambatan bahasa.
 *   **Pendidikan Vokasi:** Menempuh spesialisasi pengembangan perangkat lunak dengan fokus mendalam pada Pemrograman Berorientasi Objek (OOP), Struktur Data, dan Rekayasa Sistem.
